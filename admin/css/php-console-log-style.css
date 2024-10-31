@@ -1,0 +1,53 @@
+#php-console-log-help {
+  max-width: 40%;
+}
+
+#php-console-log-help code {
+  font-size: 1em;
+  margin-top: 8px;
+  padding: 8px;
+  line-height: 16px;
+  display: block;
+}
+
+#php-console-log-help code span {
+  display: block;
+  padding-bottom: 2px;
+  padding-top: 2px;
+}
+
+#php-console-log-help code span.tab1 {
+  padding-left: 20px;
+}
+
+#php-console-log-help code span.tab2 {
+  padding-left: 40px;
+}
+
+#php-console-log-help code span.tab3 {
+  padding-left: 60px;
+}
+
+#php-console-log-help code span.tab4 {
+  padding-left: 80px;
+}
+
+#php-console-log-help .troubleshooting ul {
+  display: block;
+  list-style-type: disc;
+  margin-top: 1em;
+  margin-bottom: 1 em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
+}
+
+#php-console-log-help .troubleshooting li {
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+#php-console-log-help .troubleshooting li p {
+  margin-bottom: 5px;
+  margin-top: 0;
+}
